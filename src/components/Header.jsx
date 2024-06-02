@@ -3,7 +3,7 @@ import React from 'react';
 const Header = () => {
   return (
     <div className="relative h-[125px] md:h-[200px] lg:h-[250px] xl:h-[300px] flex items-center justify-between">
-      <img src="/assets/1.png" alt="Image 1" className="h-full object-cover w-1/4" />
+      <img src="=/assets/1.png" alt="Image 1" className="h-full object-cover w-1/4" />
       <img src="/assets/2.png" alt="Image 2" className="h-full object-cover w-1/4" />
       <img src="/assets/3.png" alt="Image 3" className="h-full object-cover w-1/4" />
       <img src="/assets/4.png" alt="Image 4" className="h-full object-cover w-1/4" />
