@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Roca One';
+    src: url('AirBlack/src/fonts/RocaOne-Rg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  .font-roca-one {
+    font-family: 'Roca One', sans-serif;
+    font-size: 28px;
+    letter-spacing: 2px;
+  }
+  
+
+  .placeholder-gray::placeholder {
+    color: gray;
+}
+
+/* Apply custom styles to the select element */
+.select-field {
+  /* Adjust the color of the placeholder text */
+  color: rgba(0, 0, 0, 0.7); 
+  /* Adjust the opacity as needed */
+
+  /* Adjust other styles as needed */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  width: 100%;
+}
+
+/* Apply custom styles to the placeholder option */
+.select-field option.placeholder {
+  /* Adjust the color of the placeholder text */
+  color: rgba(0, 0, 0, 0.5); /* Adjust the opacity as needed */
+}
+
+
+.gradient-bg {
+  background: linear-gradient(to right, #F56563, #E54988);
+}
+
+
+.w-214 {
+  width: 214px;
+}
+
+.h-90 {
+  height: 90px;
+}
